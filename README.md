@@ -1,3 +1,0 @@
-# fedose.github.io
-
-Hi!
