@@ -1,3 +1,3 @@
 # fedose.github.io
 
-Hi.
+Hi!
