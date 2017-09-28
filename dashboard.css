@@ -3,7 +3,12 @@
 	height: 96px;
 	background-color: #005a9e;
 }
-  
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .filter {
   background-color: #ffffff;
 	width: 100%;
